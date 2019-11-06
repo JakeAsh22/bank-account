@@ -1,0 +1,21 @@
+.card-title{
+  text-align: center;
+}
+.jumbotron{
+  text-align: center;
+}
+
+.card {
+  box-shadow: 5px 10px #646e62;
+  background-color: silver;
+}
+body {
+  background-color: lightgrey;
+}
+
+h6 {
+  text-align: center;
+}
+input{
+  float: right;
+}
